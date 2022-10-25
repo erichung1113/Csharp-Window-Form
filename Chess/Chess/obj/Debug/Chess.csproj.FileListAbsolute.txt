@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\bin\Debug\Chess.exe.config
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\bin\Debug\Chess.exe
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\bin\Debug\Chess.pdb
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.Form1.resources
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.exe
+\\Mac\Home\Desktop\Code\C#\Chess\Chess\obj\Debug\Chess.pdb
