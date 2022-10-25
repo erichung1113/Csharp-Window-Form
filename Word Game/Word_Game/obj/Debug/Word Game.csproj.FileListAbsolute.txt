@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\bin\Debug\Word Game.exe.config
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\bin\Debug\Word Game.exe
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\bin\Debug\Word Game.pdb
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word Game.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word_Game.Form1.resources
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word_Game.Properties.Resources.resources
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word Game.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word Game.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word Game.exe
+\\Mac\Home\Desktop\Code\C#\World Game拷貝\World Game\obj\Debug\Word Game.pdb
