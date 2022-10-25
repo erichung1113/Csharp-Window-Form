@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.exe.config
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Telephone.pdb
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Desktop\Telephone\Telephone\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.csproj.ResolveComReference.cache
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.exe
+\\Mac\Home\Desktop\Telephone\Telephone\obj\Debug\Telephone.pdb
