@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\WordGame\WordGame\bin\Debug\WordGame.exe.config
+\\Mac\Home\Desktop\WordGame\WordGame\bin\Debug\WordGame.exe
+\\Mac\Home\Desktop\WordGame\WordGame\bin\Debug\WordGame.pdb
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.Properties.Resources.resources
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.exe
+\\Mac\Home\Desktop\WordGame\WordGame\obj\Debug\WordGame.pdb
